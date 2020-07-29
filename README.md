@@ -1,2 +1,2 @@
 # hello-world
-This repositore is containing my ideas and projects
+This repository is containing my ideas and projects
